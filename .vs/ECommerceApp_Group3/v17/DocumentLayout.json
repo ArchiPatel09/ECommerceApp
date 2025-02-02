@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4132AB84-C29D-406B-84B2-688A47A5C1E2}|ECommerceApp_Group3\\ECommerceApp_Group3.csproj|c:\\users\\archi\\onedrive - conestoga college\\desktop\\programs\\level-4 of cpa\\prog2070  - psqa\\assignment 2\\ecommerceapp_group3\\ecommerceapp_group3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4132AB84-C29D-406B-84B2-688A47A5C1E2}|ECommerceApp_Group3\\ECommerceApp_Group3.csproj|solutionrelative:ecommerceapp_group3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6A74512-5B6E-4D8D-9951-4CC1EBC1D8A6}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|c:\\users\\archi\\onedrive - conestoga college\\desktop\\programs\\level-4 of cpa\\prog2070  - psqa\\assignment 2\\ecommerceapp_group3\\ecommerceapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A74512-5B6E-4D8D-9951-4CC1EBC1D8A6}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|solutionrelative:ecommerceapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4132AB84-C29D-406B-84B2-688A47A5C1E2}|ECommerceApp_Group3\\ECommerceApp_Group3.csproj|c:\\users\\archi\\onedrive - conestoga college\\desktop\\programs\\level-4 of cpa\\prog2070  - psqa\\assignment 2\\ecommerceapp_group3\\ecommerceapp_group3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4132AB84-C29D-406B-84B2-688A47A5C1E2}|ECommerceApp_Group3\\ECommerceApp_Group3.csproj|solutionrelative:ecommerceapp_group3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6A74512-5B6E-4D8D-9951-4CC1EBC1D8A6}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|c:\\users\\archi\\onedrive - conestoga college\\desktop\\programs\\level-4 of cpa\\prog2070  - psqa\\assignment 2\\ecommerceapp_group3\\ecommerceapp.tests\\ecommerceapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6A74512-5B6E-4D8D-9951-4CC1EBC1D8A6}|ECommerceApp.Tests\\ECommerceApp.Tests.csproj|solutionrelative:ecommerceapp.tests\\ecommerceapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4132AB84-C29D-406B-84B2-688A47A5C1E2}|ECommerceApp_Group3\\ECommerceApp_Group3.csproj|c:\\users\\archi\\onedrive - conestoga college\\desktop\\programs\\level-4 of cpa\\prog2070  - psqa\\assignment 2\\ecommerceapp_group3\\ecommerceapp_group3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4132AB84-C29D-406B-84B2-688A47A5C1E2}|ECommerceApp_Group3\\ECommerceApp_Group3.csproj|solutionrelative:ecommerceapp_group3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ECommerceApp.Tests",
+              "DocumentMoniker": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+              "RelativeDocumentMoniker": "ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+              "RelativeToolTip": "ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T21:56:47.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "ECommerceApp.Tests\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ProductTests.cs",
+              "RelativeToolTip": "ECommerceApp.Tests\\ProductTests.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowHAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:57:38.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp_Group3\\Product.cs",
               "RelativeDocumentMoniker": "ECommerceApp_Group3\\Product.cs",
@@ -31,19 +61,6 @@
               "ViewState": "AQIAACEAAAAAAAAAAAAqwB0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T21:28:16.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp_Group3\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceApp_Group3\\Program.cs",
-              "ToolTip": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp_Group3\\Program.cs",
-              "RelativeToolTip": "ECommerceApp_Group3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T21:24:41.294Z",
               "EditorCaption": ""
             }
           ]

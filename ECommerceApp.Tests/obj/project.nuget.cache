@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLfItedwGBc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\archi\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\nunit.analyzers\\4.6.0\\nunit.analyzers.4.6.0.nupkg.sha512",
+    "C:\\Users\\archi\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
