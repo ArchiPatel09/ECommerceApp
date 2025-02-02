@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {}
+    "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {
+    "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+        "projectUniqueName": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
         "projectName": "ECommerceApp.Tests",
-        "projectPath": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
-        "packagesPath": "C:\\Users\\archi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp.Tests\\obj\\",
+        "projectPath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\patel\\.nuget\\packages\\",
+        "outputPath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\archi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj": {
-                "projectPath": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj"
+              "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj": {
+                "projectPath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj"
               }
             }
           }
@@ -85,15 +81,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj": {
+    "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj",
+        "projectUniqueName": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj",
         "projectName": "ECommerceApp_Group3",
-        "projectPath": "C:\\Users\\archi\\OneDrive - Conestoga College\\Desktop\\Programs\\Level-4 of CPA\\PROG2070  - PSQA\\Assignment 2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj",
+        "projectPath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
