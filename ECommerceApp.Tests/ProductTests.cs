@@ -51,7 +51,7 @@ namespace ECommerceApp.Tests
         }
 
         /// <summary>
-        /// TThis test is testing the ValidItemPrice method with an invalid item price above the maximum allowed value.
+        /// This test is testing the ValidItemPrice method with an invalid item price above the maximum allowed value.
         /// This test ensures that the method correctly identifies an invalid item price that exceeds the maximum limit of $8000.
         /// 
         /// I chose this test to verify that the method handles edge cases correctly. 
@@ -89,7 +89,7 @@ namespace ECommerceApp.Tests
         }
 
         /// <summary>
-        /// Tests the ValidIncreaseStock method with a negative increase amount.
+        /// This test is testing the ValidIncreaseStock method with a negative increase amount.
         /// This test ensures that the method correctly identifies an invalid increase amount that is less than or equal to zero.
         /// 
         /// I chose this test to verify that the method handles invalid input correctly. 
@@ -107,7 +107,7 @@ namespace ECommerceApp.Tests
         }
 
         /// <summary>
-        /// Tests the ValidDecreaseStock method with a negative decrease amount.
+        /// This test is testing the ValidDecreaseStock method with a negative decrease amount.
         /// This test ensures that the method correctly identifies an invalid decrease amount that is less than or equal to zero.
         /// 
         /// I chose this test to verify that the method handles invalid input correctly. 
@@ -187,7 +187,7 @@ namespace ECommerceApp.Tests
         }
 
         /// <summary>
-        /// Thsi test is testing the ValidStock method with an invalid stock amount above the maximum allowed value.
+        /// This test is testing the ValidStock method with an invalid stock amount above the maximum allowed value.
         /// This test ensures that the method correctly identifies an invalid stock amount that exceeds the maximum limit of 800000.
         /// 
         /// I chose this test to verify that the method handles invalid input correctly. 
@@ -227,7 +227,7 @@ namespace ECommerceApp.Tests
         }
 
         // <summary>
-        /// TThis test is testing the ValidDecreaseStock method with a valid decrease amount.
+        /// This test is testing the ValidDecreaseStock method with a valid decrease amount.
         /// This test ensures that the method correctly identifies a valid decrease amount that does not cause the stock to fall below the minimum limit.
         /// 
         /// I chose this test to verify that the method works as expected for a typical valid input. 
@@ -264,7 +264,7 @@ namespace ECommerceApp.Tests
         }
 
         /// <summary>
-        /// Thsi test is testing the ValidProductName method with a valid product name containing only letters.
+        /// This test is testing the ValidProductName method with a valid product name containing only letters.
         /// This test ensures that the method correctly identifies a valid product name that meets the formatting requirements (letters, digits, and spaces only).
         /// 
         /// I chose this test to verify that the method works as expected for a typical valid input. 
