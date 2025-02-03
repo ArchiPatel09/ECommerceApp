@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {}
+    "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {
+    "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+        "projectUniqueName": "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
         "projectName": "ECommerceApp.Tests",
-        "projectPath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
-        "packagesPath": "C:\\Users\\patel\\.nuget\\packages\\",
-        "outputPath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\obj\\",
+        "projectPath": "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\priya\\.nuget\\packages\\",
+        "outputPath": "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\priya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj": {
-                "projectPath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj"
+              "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj": {
+                "projectPath": "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj"
               }
             }
           }
@@ -43,8 +46,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -81,15 +85,16 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj": {
+    "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj",
+        "projectUniqueName": "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj",
         "projectName": "ECommerceApp_Group3",
-        "projectPath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj",
+        "projectPath": "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3.csproj",
+        "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
             "projectReferences": {}

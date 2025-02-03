@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4kblGxHjgD8=",
+  "dgSpecHash": "fz2+/MTrZ4s=",
   "success": true,
-  "projectFilePath": "D:\\Software Quality Assurance\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+  "projectFilePath": "C:\\Sem4\\Software Quality Assurance\\Assignments\\A2\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp_Group3\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\patel\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
-    "C:\\Users\\patel\\.nuget\\packages\\nunit.analyzers\\4.6.0\\nunit.analyzers.4.6.0.nupkg.sha512",
-    "C:\\Users\\patel\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+    "C:\\Users\\priya\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\priya\\.nuget\\packages\\nunit.analyzers\\4.6.0\\nunit.analyzers.4.6.0.nupkg.sha512",
+    "C:\\Users\\priya\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }
